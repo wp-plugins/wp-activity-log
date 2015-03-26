@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*Admin CSS*/
+
+.wp-a-log-container{}
+
+
+.wp-a-log-container .notification-list{}
+
+.wp-a-log-container .notification-list li {
+  padding: 5px 0;
+}
+
+.wp-a-log-container .notification-list li span{
+
+}
+
+
+
+
+
+
+
+
+
+
+
